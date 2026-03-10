@@ -1,4 +1,4 @@
-# GH-900 - GitHub Fundamentals Course - JW testing changes
+# GH-900 - GitHub Fundamentals Course - JW testing changes - 2nd commit test
 
 ![course_thumbnail](./Assets/course_thumbnail_image.png)
 
